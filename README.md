@@ -3,7 +3,11 @@ Projeto de atualização do programa ScreenMatch, desta vez com um framework cha
 Foram atulizados :
 
 
-Java (Principal) <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+Java (Principal) 
+            <i class="devicon-java-plain-wordmark colored"></i>
+            <i class="devicon-java-plain-wordmark colored"></i>
+          
+          
 <br/> 
 Spring (Framework) <br/>
 Maven (Parte do framework) <br/>
