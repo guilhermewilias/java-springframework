@@ -3,10 +3,10 @@ Projeto de atualização do programa ScreenMatch, desta vez com um framework cha
 Foram atulizados :
 
 
-Java (Principal) <br/>
-Spring (Framework_
-Maven (Parte do framework) 
-CRUD
-MySQL
-Html
-CSS
+Java (Principal) <br/> 
+Spring (Framework) <br/>
+Maven (Parte do framework) <br/>
+CRUD<br/>
+MySQL<br/>
+Html<br/>
+CSS<br/>
