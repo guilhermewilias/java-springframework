@@ -4,12 +4,9 @@ Foram atulizados :
 
 
 Java (Principal) 
-            
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
             <i class="devicon-java-plain-wordmark colored"></i>
-          
-          
+                    
 <br/> 
 Spring (Framework) <br/>
 Maven (Parte do framework) <br/>
