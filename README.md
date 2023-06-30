@@ -1,4 +1,4 @@
-# <img align="left" alt="gui-j" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />java-springframework :
+# <img align="left" alt="gui-j" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />java-springframework :
 Atualização do projeto screenmatch, desta vez com interface web, banco de dados para armazenamento dos filmes.
 Programa com principal linguagem Java, com framework spring e maven.
 <br/>
