@@ -2,15 +2,5 @@
 Projeto de atualização do programa ScreenMatch, desta vez com um framework chamado Spring, com Crud (banco de dados) para armazenar os filmes selecionados.
 Foram atulizados :
 
-
-Java (Principal) 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-            <i class="devicon-java-plain-wordmark colored"></i>
-                    
-<br/> 
-Spring (Framework) <br/>
-Maven (Parte do framework) <br/>
-CRUD<br/>
-MySQL<br/>
-Html<br/>
-CSS<br/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
