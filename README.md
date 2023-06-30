@@ -3,7 +3,7 @@ Projeto de atualização do programa ScreenMatch, desta vez com um framework cha
 Foram atulizados :
 
 
-Java (Principal) <br/> 
+Java (Principal) <br/>  <i class="fa-brands fa-java"></i>
 Spring (Framework) <br/>
 Maven (Parte do framework) <br/>
 CRUD<br/>
