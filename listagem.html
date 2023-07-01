@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{template.html}" >
+    <head>
+        <title>Lista dos filmes</title>
+    </head>
+    <body>
+        <div layout:fragment="conteudo">
+            <h1>Lista dos filmes</h1>
+            <table>
+                   <thead>
+                        <tr>
+                            <th>Nome do filme :  </th>
+                            <th>Duração do filme : </th>
+                            <th>Ano de lançamento do filme : </th>
+                            <th>Gênero do filme : </th>
+                        </tr>
+                   </thead>
+                        <tbody>
+                            <tr th:each="filme : ${lista}">
+                                <td th:text="${filme.nome}"></td>
+                                <td th:text="${filme.duracaoEmMinutos}"></td>
+                                <td th:text="${filme.anoDeLancamento}"></td>
+                                <td th:text="${filme.genero}"></td>
+                            </tr>
+                        </tbody>
+            </table>
+        </div>
+    </body>
+</html>
